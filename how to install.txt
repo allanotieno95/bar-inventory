@@ -1,0 +1,6 @@
+How To Install
+
+Create a new database and import the database.sql file
+Open the conn.php file in the includes folder and modify the credentials.
+
+Enjoy!!
